@@ -1,4 +1,4 @@
-#Hidden Genres Using Clustering from Book Descriptions
+# Hidden Genres Using Clustering from Book Descriptions
 The purpose of this project is to find correlations between books that go beyond their assigned genres. The written descriptions of the books will be the target of this analysis and modeling. 
 ## Data:
 Data was taken by scraping a random assortment of books through OpenLibrary API.
